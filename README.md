@@ -1,4 +1,4 @@
-<h1 align="center">As-salamu alaykum 👋, I'm MostafaKhattab0</h1>
+<h1 align="center">As-salamu alaykum 👋, I'm MostafaKhattab</h1>
 <h3 align="center">A Programmer but still learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafakhattab0&label=Profile%20views&color=0e75b6&style=flat" alt="mostafakhattab0" /> </p>
