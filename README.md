@@ -26,7 +26,16 @@
 
 
 
-
+<div>
+		<script type="importmap">
+			{
+				"imports": {
+					"three": "../build/three.module.js",
+					"three/addons/": "./jsm/"
+				}
+			}
+		</script>
+	
 	<script type="module">
 
 			import * as THREE from 'three';
@@ -120,4 +129,4 @@
 
 		</script>
 
-
+</div>
