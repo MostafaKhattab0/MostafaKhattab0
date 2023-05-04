@@ -1,4 +1,3 @@
-<!-- Set the background color to a dark color -->
 <body style="background-color: #0d1117; color: #c9d1d9;">
 
   <h1 align="center">As-salamu alaykum, I'm Mostafa Khattab 👋</h1>
