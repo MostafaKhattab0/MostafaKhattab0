@@ -3,9 +3,7 @@
   <h1 align="center">As-salamu alaykum, I'm Mostafa Khattab 👋</h1>
   <h3 align="center">A programmer who is always learning</h3>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mostafakhattab0&label=Profile%20views&color=58a6ff&style=flat-square" alt="mostafakhattab0" />
-  </p>
+ 
 
   <p align="center">
     <a href="https://www.linkedin.com/in/مصطفى-خطاب-102267255/" target="_blank">
@@ -48,4 +46,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=mostafakhattab0&theme=darkhub" alt="Mostafa Khattab" />
     </a>
+
   </p>
+<img src="https://drive.google.com/uc?export=view&id=1rAu5KS6xWYLTgvjJhB5dr6OBm8emJy9C" alt="GitHub contributions"/>
+</body>
