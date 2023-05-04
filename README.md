@@ -12,6 +12,9 @@
     <a href="https://stackoverflow.com/users/20891554" target="_blank">
       <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white" alt="Stack Overflow" height="22" width="120">
     </a>
+    <a href="https://codeforces.com/profile/Mostafa_Mohamed202006209" target="_blank">
+      <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces" height="22" width="100">
+    </a>
     <a href="https://www.leetcode.com/mostafakhattab0" target="_blank">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" height="22" width="85">
     </a>
@@ -31,11 +34,13 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40"/>
+<img src="https://drive.google.com/uc?export=view&id=1uLin834DlhAV0_B_9BaQsLsjDidALGcs" alt="SQL" 
+height="35" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40"/>
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" height="40" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
+
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
   </p>
 
   <p align="center">
