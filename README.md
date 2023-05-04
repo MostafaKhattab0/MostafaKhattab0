@@ -17,6 +17,9 @@
     <a href="https://www.leetcode.com/mostafakhattab0" target="_blank">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" height="22" width="85">
     </a>
+    <a href="https://discord.com/users/NotCrankyAnymore#6149" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord" height="22" width="80">
+    </a>
     <a href="mailto:iammostafamagdy@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-C71610?style=flat-square&logo=Gmail&logoColor=white" alt="Email" height="22" width="65">
     </a>
@@ -46,5 +49,3 @@
       <img src="https://github-profile-trophy.vercel.app/?username=mostafakhattab0&theme=darkhub" alt="Mostafa Khattab" />
     </a>
   </p>
-
-</body>
