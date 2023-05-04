@@ -1,27 +1,51 @@
-<h1 align="center">As-salamu alaykum 👋, I'm MostafaKhattab</h1>
-<h3 align="center">A Programmer but still learning</h3>
+<!-- Set the background color to a dark color -->
+<body style="background-color: #0d1117; color: #c9d1d9;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafakhattab0&label=Profile%20views&color=0e75b6&style=flat" alt="mostafakhattab0" /> </p>
+  <h1 align="center">As-salamu alaykum, I'm Mostafa Khattab 👋</h1>
+  <h3 align="center">A programmer who is always learning</h3>
 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mostafakhattab0&label=Profile%20views&color=58a6ff&style=flat-square" alt="mostafakhattab0" />
+  </p>
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/مصطفى-خطاب-102267255/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="22" width="80">
+    </a>
+    <a href="https://stackoverflow.com/users/20891554" target="_blank">
+      <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white" alt="Stack Overflow" height="22" width="120">
+    </a>
+    <a href="https://www.leetcode.com/mostafakhattab0" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" height="22" width="85">
+    </a>
+    <a href="mailto:iammostafamagdy@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-C71610?style=flat-square&logo=Gmail&logoColor=white" alt="Email" height="22" width="65">
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **Java OOP**
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafakhattab0&show_icons=true&locale=en&theme=dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" alt="Mostafa Khattab" />
+  </p>
 
-- 📫 How to reach me at **iammostafamagdy@gmail.com**
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/مصطفى-خطاب-102267255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d9%85%d8%b5%d8%b7%d9%81%d9%89-%d8%ae%d8%b7%d8%a7%d8%a8-102267255/" height="30" width="40" /></a>
-<a href="https://discord.com/channels/NotCrankyAnymore#6149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="980474359086972988" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20891554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mostafa khattab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mostafakhattab0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafakhattab0" height="30" width="40" /></a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafakhattab0&show_icons=true&locale=en" alt="mostafakhattab0" /></p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakhattab0&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakhattab0&" alt="mostafakhattab0" /></p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=mostafakhattab0&theme=darkhub" alt="Mostafa Khattab" />
+    </a>
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafakhattab0" alt="mostafakhattab0" /></a> </p>
-
-
+</body>
