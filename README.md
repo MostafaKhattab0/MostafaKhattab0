@@ -1,9 +1,9 @@
-<body style="background-color: #0d1117; color: #c9d1d9;">
+<!DOCTYPE html>
+<html>
 
+<body style="background-color: #0d1117; color: #c9d1d9;">
   <h1 align="center">As-salamu alaykum, I'm Mostafa Khattab 👋</h1>
   <h3 align="center">A programmer who is always learning</h3>
-
- 
 
   <p align="center">
     <a href="https://www.linkedin.com/in/مصطفى-خطاب-102267255/" target="_blank">
@@ -34,24 +34,24 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40"/>
-<img src="https://drive.google.com/uc?export=view&id=1uLin834DlhAV0_B_9BaQsLsjDidALGcs" alt="SQL" 
-height="35" width="40"/>
+    <img src="https://drive.google.com/uc?export=view&id=1uLin834DlhAV0_B_9BaQsLsjDidALGcs" alt="SQL" height="35" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40"/>
-
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
   </p>
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakhattab0&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mostafakhattab0&theme=darkhub" alt="Mostafa Khattab" />
+<div style="text-align: center;">
+  <div style="padding-rgiht: 200px; padding-right: 20px;">
+    <a href="https://codepen.io/MostafaKhattab/full/oNapLeN" target="_blank">
+      <img src="https://img.shields.io/badge/Random Quotes!-orange?style=for-the-badge&logo=codepen&logoColor=white" alt="Random Quotes" style="background-color: #FFA500; color: #FFFFFF; padding: 10px; border-radius: 5px;">
     </a>
-
-  </p>
-<img src="https://drive.google.com/uc?export=view&id=1rAu5KS6xWYLTgvjJhB5dr6OBm8emJy9C" alt="GitHub contributions"/>
+  </div>
+</div>
 </body>
+
+</html>
