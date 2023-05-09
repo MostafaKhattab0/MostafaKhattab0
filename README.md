@@ -45,13 +45,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakhattab0&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </p>
 
-<div style="text-align: center;">
-  <div style="padding-rgiht: 200px; padding-right: 20px;">
-    <a href="https://codepen.io/MostafaKhattab/full/oNapLeN" target="_blank">
-      <img src="https://img.shields.io/badge/Random Quotes!-orange?style=for-the-badge&logo=codepen&logoColor=white" alt="Random Quotes" style="background-color: #FFA500; color: #FFFFFF; padding: 10px; border-radius: 5px;">
-    </a>
-  </div>
-</div>
+
 </body>
 
 </html>
