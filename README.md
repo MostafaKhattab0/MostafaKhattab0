@@ -26,26 +26,26 @@
     </a>
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mostafakhattab0&show_icons=true&locale=en&theme=dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" alt="Mostafa Khattab" />
-  </p>
-
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40"/>
-    <img src="https://drive.google.com/uc?export=view&id=1uLin834DlhAV0_B_9BaQsLsjDidALGcs" alt="SQL" height="35" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
+    <img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" height="40" width="40"/>
+    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" alt="IntelliJ IDEA Community Edition" height="40" width="40"/>
   </p>
-
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakhattab0&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhattab0&layout=compact&langs_count=8&theme=dark" alt="Most Used Programming Languages" />
   </p>
-
-
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafakhattab0&show_icons=true&locale=en&theme=dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" alt="Mostafa Khattab" />
+  </p>
 </body>
 
 </html>
