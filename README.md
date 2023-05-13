@@ -6,7 +6,7 @@
   <h3 align="center">A programmer who is always learning</h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/مصطفى-خطاب-102267255/" target="_blank">
+    <a href="https://www.linkedin.com/in/mostafa-khattab-102267255//" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="22" width="80">
     </a>
     <a href="https://stackoverflow.com/users/20891554" target="_blank">
