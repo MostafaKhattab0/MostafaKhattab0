@@ -41,10 +41,6 @@
     <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" alt="IntelliJ IDEA Community Edition" height="40" width="40"/>
   </p>
 
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mostafakhattab0&show_icons=true&locale=en&theme=dark&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" alt="Mostafa Khattab" />
-  </p>
 </body>
 
 </html>
