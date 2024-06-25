@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 
-<body style="background-color: #0d1117; color: #c9d1d9;">
+<body style="background-color: #0d1117; color: #c9d1d9; font-family: Arial, sans-serif;">
+
   <h1 align="center">As-salamu alaykum, I'm Mostafa Khattab 👋</h1>
   <h3 align="center">A programmer who is always learning</h3>
 
@@ -45,6 +46,48 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" height="40" width="40"/>
+  </p>
+
+  <h3 align="center">GitHub Statistics:</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MostafaKhattab0&show_icons=true&theme=dark" alt="Mostafa's GitHub Stats" />
+  </p>
+
+  <h3 align="center">Top Languages:</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKhattab0&layout=compact&theme=dark" alt="Top Languages" />
+  </p>
+
+  <h3 align="center">Recent Activity:</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MostafaKhattab0&layout=compact&theme=dark" alt="Recent Activity" />
+  </p>
+
+  <h3 align="center">GitHub Trophies:</h3>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MostafaKhattab0&theme=darkhub" alt="GitHub Trophies" />
+  </p>
+
+  <h3 align="center">GitHub Streak Stats:</h3>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaKhattab0&theme=dark" alt="GitHub Streak Stats" />
+  </p>
+
+  <h3 align="center">Profile Views:</h3>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MostafaKhattab0&color=blue" alt="Profile Views" />
+  </p>
+
+  <h3 align="center">Contribution Graph:</h3>
+
+  <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=MostafaKhattab0&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
   </p>
 
 </body>
